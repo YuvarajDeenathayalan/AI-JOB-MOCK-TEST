@@ -5,7 +5,7 @@ import random
 class MockInterviewChatbot:
     def __init__(self, root):
         self.root = root
-        self.root.title("🤖 Mock Interview Chatbot")
+        self.root.title(" Mock Interview Chatbot")
         self.root.geometry("900x650")
         self.root.config(bg="#F0F8FF")
 
